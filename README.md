@@ -1,3 +1,3 @@
-# Tallydrop Privacy Policy
+# tallydrop Privacy Policy
 
-Static privacy policy page for Tallydrop.
+Static privacy policy page for tallydrop.
